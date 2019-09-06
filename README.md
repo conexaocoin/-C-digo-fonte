@@ -221,34 +221,61 @@ VERSÃO  0.1.0
  
  
 Trabalho em andamento (testável)
+
 INSTRUÇÕES
+
 CRIE UMA CARTEIRA.
+
 LOJA DE FRASES DE SEMENTES EM UM LUGAR SEGURO!
+
 CARREGUE COM UMA PEQUENA QUANTIDADE DE ETH (0.00001 É MUITO).
+
 CARREGUE COM UM PEQUENO QUANTO DE TOKEN SELECIONADO NA CARTEIRA PARA ATIVAR A FUNÇÃO.
+
  2018-02-12
+ 
 Versão de teste pronta!
+
 Adicionados novos tokens e integrações, além de uma nova interface de hiperlink.
+
 Ainda com alguns problemas com o iOS e alguns navegadores, as soluções para iOS foram descobertas e serão adicionadas este ano.
 Adicionará informações de marketcap para integrações de token no próximo patch.
+
 Passaremos algum tempo em que a comunidade testará a carteira para prepará-la para distribuição.
 2018-02-12
-Várias correções de erros e adição de vários recursos. Atualizaremos este leia-me para ser mais preciso em breve. Desculpe, aproveitamos nossas férias e esquecemos de atualizar isso = X
+Várias correções de erros e adição de vários recursos. Atualizaremos este leia-me para ser mais preciso em breve. Desculpe,
+
+aproveitamos nossas férias e esquecemos de atualizar isso = X
 2018-02-12
+
 Funcionalidade Etherscan adicionada para carteiras de usuários
+
 Limites inferiores ajustados para que o consumo de gás exija 0,00025 eth para operação da carteira (abaixo de 0,00033)
 2018-02-12
+
 NOTAS
+
 Financie a Carteira virtual com US $ A e uma pequena quantidade de éter (0,0001 servirá) ou ela não funcionará corretamente
+
 Alguns navegadores não funcionam bem com o uso deste Dapp
+
 Funções 2fa virão em breve!
+
 Os usuários do iOS ganharão funcionalidade no próximo patch (esperamos)
+
 Também para o próximo patch ... Tokens ERC20 adicionais ... Possivelmente a troca na carteira também
+
 Adicionaremos uma configuração para ajustar o gwei no próximo patch também!
 Detalhes.
+
 Se você não possui uma carteira ERC20, pode criar uma (armazena todas as ERC20s)
+
 Os preços do gás são padronizados nas configurações MAIS BAIXAS através da rede ethereum
-Observe que não há limites no momento. Em breve, adicionaremos mais complexidade para proteger nossos usuários ... mas se você inserir entradas incorretas para o Endereço / Valor, isso poderá causar perda de fundos!
+
+Observe que não há limites no momento. Em breve, adicionaremos mais complexidade para proteger nossos usuários ... mas se 
+
+você inserir entradas incorretas para o Endereço / Valor, isso poderá causar perda de fundos!
+
 O endereço padrão é a carteira de $ A e sempre aceitamos contribuições! =)
 
 
@@ -282,13 +309,21 @@ Entre em contato e saiba mais:
  
 Fale com nossa equipe 
 https://conexaocoin.com/ 
+
 https://conexaocoin.com/contato 
+
 servidor@conexaocoin.com 
+
 https://twitter.com/conexaocoin
+
 https://www.instagram.com/conexaocoin/
+
 https://www.facebook.com/conexaocoin/
+
 https://discord.gg/bhQReAB 
+
 https://www.reddit.com/user/conexaocoin 
+
 https://t.me/conexaocoin   
 
  
