@@ -1,5 +1,5 @@
 # -C-digo-fonte
-                                   Árvore de preparação do Dash Core  0.1.0 
+                                   Árvore de preparação da Conexão Coin  0.1.0 
 
 
                               Trabalho em andamento (testável) - CONEXÃO COIN - COINN
