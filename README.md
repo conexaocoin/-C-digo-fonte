@@ -250,9 +250,35 @@ Se você não possui uma carteira ERC20, pode criar uma (armazena todas as ERC20
 Os preços do gás são padronizados nas configurações MAIS BAIXAS através da rede ethereum
 Observe que não há limites no momento. Em breve, adicionaremos mais complexidade para proteger nossos usuários ... mas se você inserir entradas incorretas para o Endereço / Valor, isso poderá causar perda de fundos!
 O endereço padrão é a carteira de $ A e sempre aceitamos contribuições! =)
-DESENVOLVEDORES
-Entre em contato e saiba mais .
-para obter recompensas / correções de bugs. etc. Nós recompensamos boas idéias!
+
+
+Licença
+
+A conexão coin é lançado sob os termos da licença MIT. Consulte COPYING para obter mais informações ou https://opensource.org/licenses/MIT .
+
+Processo de desenvolvimento
+
+O masterramo deve ser estável. O desenvolvimento normalmente é feito em ramificações separadas. As tags são criadas para indicar novas versões oficiais e estáveis ​​da conexão coin.
+
+O fluxo de trabalho de contribuição é descrito em CONTRIBUTING.md .
+
+Teste
+
+Teste e revisão de código são o gargalo do desenvolvimento; recebemos mais solicitações pull do que podemos revisar e testar em pouco tempo. Seja paciente e ajude testando as solicitações de recebimento de outras pessoas, e lembre-se de que este é um projeto crítico para a segurança, onde qualquer erro pode custar muito dinheiro às pessoas.
+
+Teste automatizado
+
+Os desenvolvedores são fortemente encorajados a escrever testes de unidade para o novo código e enviar novos testes de unidade para o código antigo. Os testes de unidade pode ser compilado e executado (assumindo que eles não foram desabilitados na configure) com: make check. Detalhes adicionais sobre a execução e a extensão de testes de unidade.
+
+Teste de garantia de qualidade manual (QA)
+
+As alterações devem ser testadas por alguém que não seja o desenvolvedor que escreveu o código. Isso é especialmente importante para alterações grandes ou de alto risco. É útil adicionar um plano de teste à descrição da solicitação pull, se o teste das alterações não for direto.
+
+Traduções
+
+Alterações nas traduções e novas traduções podem ser enviadas para a página da conexão coin .
+
+Entre em contato e saiba mais:
  
 Fale com nossa equipe 
 https://conexaocoin.com/ 
