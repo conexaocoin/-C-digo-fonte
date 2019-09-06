@@ -1,9 +1,12 @@
 # -C-digo-fonte
-Trabalho em andamento (testável) - CONEXÃO COIN - COIN
+                                   Árvore de preparação do Dash Core  0.1.0 
+
+
+                              Trabalho em andamento (testável) - CONEXÃO COIN - COINN
 
 
  
-                                    Conexão Coin - COINN
+                                                 Conexão Coin - COINN
  
 
 VERSÃO  0.1.0  
