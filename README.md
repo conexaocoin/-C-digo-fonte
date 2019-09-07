@@ -1,110 +1,90 @@
-Source Code
-                                   Árvore de preparação da Conexão Coin  0.1.0 
+   VERSION 0.1.0
 
+Work in progress (testable)
 
-                              Trabalho em andamento (testável) - CONEXÃO COIN - COINN
+INSTRUCTIONS
 
+CREATE A WALLET.
 
- 
+SEED PHRASES STORE IN A SAFE PLACE!
 
+CHARGE WITH A SMALL QUANTITY OF ETH (0.00001 IS VERY).
 
- 
-VERSÃO  0.1.0  
- 
- 
-Trabalho em andamento (testável)
+CARRY WITH A SMALL AS TOKEN SELECTED IN THE WALLET TO ACTIVATE THE FUNCTION.
 
-INSTRUÇÕES
-
-CRIE UMA CARTEIRA.
-
-LOJA DE FRASES DE SEMENTES EM UM LUGAR SEGURO!
-
-CARREGUE COM UMA PEQUENA QUANTIDADE DE ETH (0.00001 É MUITO).
-
-CARREGUE COM UM PEQUENO QUANTO DE TOKEN SELECIONADO NA CARTEIRA PARA ATIVAR A FUNÇÃO.
-
- 2018-02-12
- 
-Versão de teste pronta!
-
-Adicionados novos tokens e integrações, além de uma nova interface de hiperlink.
-
-Ainda com alguns problemas com o iOS e alguns navegadores, as soluções para iOS foram descobertas e serão adicionadas este ano.
-Adicionará informações de marketcap para integrações de token no próximo patch.
-
-Passaremos algum tempo em que a comunidade testará a carteira para prepará-la para distribuição.
-2018-02-12
-Várias correções de erros e adição de vários recursos. Atualizaremos este leia-me para ser mais preciso em breve. Desculpe,
-
-aproveitamos nossas férias e esquecemos de atualizar isso = X
 2018-02-12
 
-Funcionalidade Etherscan adicionada para carteiras de usuários
+Trial version ready!
 
-Limites inferiores ajustados para que o consumo de gás exija 0,00025 eth para operação da carteira (abaixo de 0,00033)
-2018-02-12
+Added new tokens and integrations, plus a new hyperlink interface.
 
-NOTAS
+Still with some issues with iOS and some browsers, iOS solutions have been discovered and will be added this year. Will add marketcap information for token integrations in the next patch.
 
-Financie a Carteira virtual com US $ A e uma pequena quantidade de éter (0,0001 servirá) ou ela não funcionará corretamente
+We will spend some time when the community will test the wallet to prepare it for distribution. 2018-02-12 Various bug fixes and added various features. We will update this readme to be precise soon. Excuse me,
 
-Alguns navegadores não funcionam bem com o uso deste Dapp
+we enjoyed our vacation and forgot to update this = X 2018-02-12
 
-Funções 2fa virão em breve!
+Etherscan Functionality Added for User Wallets
 
-Os usuários do iOS ganharão funcionalidade no próximo patch (esperamos)
+Lower limits set for gas consumption to require 0.00025 eth for portfolio operation (below 0.00033) 2018-02-12
 
-Também para o próximo patch ... Tokens ERC20 adicionais ... Possivelmente a troca na carteira também
+GRADES
 
-Adicionaremos uma configuração para ajustar o gwei no próximo patch também!
-Detalhes.
+Fund the Wallet with $ A and a small amount of ether (0.0001 will do) or it will not work properly
 
-Se você não possui uma carteira ERC20, pode criar uma (armazena todas as ERC20s)
+Some browsers do not work well using this Dapp
 
-Os preços do gás são padronizados nas configurações MAIS BAIXAS através da rede ethereum
+2fa functions will come soon!
 
-Observe que não há limites no momento. Em breve, adicionaremos mais complexidade para proteger nossos usuários ... mas se 
+IOS users will gain functionality in next patch (hopefully)
 
-você inserir entradas incorretas para o Endereço / Valor, isso poderá causar perda de fundos!
+Also for the next patch ... Additional ERC20 Tokens ... Possibly the wallet swap too
 
-O endereço padrão é a carteira de $ A e sempre aceitamos contribuições! =)
+We'll add a setting to adjust gwei in the next patch too! Details.
 
+If you do not have an ERC20 wallet, you can create one (stores all ERC20s)
 
-Licença
+Gas prices are standardized on LOWEST configurations through ethereum network
 
-A conexão coin é lançado sob os termos da licença MIT. Consulte COPYING para obter mais informações ou https://opensource.org/licenses/MIT .
+Note that there are no limits at this time. Soon we will add more complexity to protect our users ... but if
 
-Processo de desenvolvimento
+If you enter incorrect entries for the Address / Value, it may cause you to lose funds!
 
-O masterramo deve ser estável. O desenvolvimento normalmente é feito em ramificações separadas. As tags são criadas para indicar novas versões oficiais e estáveis ​​da conexão coin.
+The default address is the $ A wallet and we always accept contributions! =)
 
-O fluxo de trabalho de contribuição é descrito em CONTRIBUTING.md .
+License
 
-Teste
+The coin connection is released under the terms of the MIT license. See COPYING for more information or https://opensource.org/licenses/MIT.
 
-Teste e revisão de código são o gargalo do desenvolvimento; recebemos mais solicitações pull do que podemos revisar e testar em pouco tempo. Seja paciente e ajude testando as solicitações de recebimento de outras pessoas, e lembre-se de que este é um projeto crítico para a segurança, onde qualquer erro pode custar muito dinheiro às pessoas.
+Development process
 
-Teste automatizado
+The master must be stable. Development is usually done in separate branches. Tags are created to indicate stable new official versions of the coin connection.
 
-Os desenvolvedores são fortemente encorajados a escrever testes de unidade para o novo código e enviar novos testes de unidade para o código antigo. Os testes de unidade pode ser compilado e executado (assumindo que eles não foram desabilitados na configure) com: make check. Detalhes adicionais sobre a execução e a extensão de testes de unidade.
+Contribution workflow is described in CONTRIBUTING.md.
 
-Teste de garantia de qualidade manual (QA)
+test
 
-As alterações devem ser testadas por alguém que não seja o desenvolvedor que escreveu o código. Isso é especialmente importante para alterações grandes ou de alto risco. É útil adicionar um plano de teste à descrição da solicitação pull, se o teste das alterações não for direto.
+Testing and code review is the development bottleneck; We received more pull requests than we can review and test in a short time. Be patient and help by testing other people's requests, and keep in mind that this is a safety-critical project where any mistake can cost a lot of people money.
 
-Traduções
+Automated testing
 
-Alterações nas traduções e novas traduções podem ser enviadas para a página da conexão coin .
+Developers are strongly encouraged to write unit tests for the new code and submit new unit tests for the old code. Unit tests can be compiled and run (assuming they have not been disabled in configure) with: make check. Additional details on running and extending unit tests.
 
-Entre em contato e saiba mais:
- 
-Fale com nossa equipe 
-https://conexaocoin.com/ 
+Manual Quality Assurance (QA) Test
 
-https://conexaocoin.com/contato 
+Changes should be tested by someone other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing changes is not straightforward.
 
-servidor@conexaocoin.com 
+Translations
+
+Changes to translations and new translations can be sent to the coin connection page.
+
+Contact us and learn more:
+
+Talk to our team https://conexaocoin.com/
+
+https://conexaocoin.com/contato
+
+server@conexaocoin.com
 
 https://twitter.com/conexaocoin
 
@@ -112,10 +92,8 @@ https://www.instagram.com/conexaocoin/
 
 https://www.facebook.com/conexaocoin/
 
-https://discord.gg/bhQReAB 
+https://discord.gg/bhQReAB
 
-https://www.reddit.com/user/conexaocoin 
+https://www.reddit.com/user/conexaocoin
 
-https://t.me/conexaocoin   
-
- 
+https://t.me/conexaocoin
