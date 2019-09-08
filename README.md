@@ -83,9 +83,9 @@ Contact us and learn more:
 
 Talk to our team https://conexaocoin.com/
 
-https://conexaocoin.com/contato
+conexaocoin@bol.com.br
 
-server@conexaocoin.com
+
 
 https://twitter.com/conexaocoin
 
