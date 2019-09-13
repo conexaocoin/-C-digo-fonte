@@ -77,8 +77,8 @@ Total Supply:
 1,000,000,000 COINN
 
 Contact us for more information:
-official website: https://conexaocoin.com/
-official email conexaocoin@bol.com.br
+official website: http://coinn.com.br/ 
+official email: conexaocoin@bol.com.br
 twitter: https://twitter.com/conexaocoin
 Intagram: https://www.instagram.com/conexaocoin/
 Facebook: https://www.facebook.com/conexaocoin/
