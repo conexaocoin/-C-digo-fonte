@@ -68,6 +68,14 @@ Test
 
 Testing and code review is the development bottleneck, we get more pull requests than we can review and test in a short time. Please be patient and help by testing other people's pull requests, and keep in mind that this is a safety critical project where any mistake can cost people a lot of money.
 
+Token Name: Conexão Coin
+Version: 0.1.0 ERC-20
+Coin / Token Symbol: COINN
+Contract:
+0x106f2d734e12545b4d78fc057934905508f1fe24
+Total Supply:
+1,000,000,000 COINN
+
 Contact us for more information:
 official website: https://conexaocoin.com/
 official email conexaocoin@bol.com.br
